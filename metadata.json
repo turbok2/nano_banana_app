@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Nano Banana: Image Fusion Studio",
+  "description": "Combine your image with a concept image using the Gemini 2.5 flash image model (aka nano banana) to generate a new, stylized creation.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
